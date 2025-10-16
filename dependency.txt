@@ -1,0 +1,16 @@
+beautifulsoup4
+pandas
+openpyxl
+selenium
+requests
+lxml
+tqdm
+camelot-py[cv]    
+pytesseract
+opencv-python
+python-dotenv
+instaloader      
+xlrd
+pillow
+webdriver-manager  
+scrapers
